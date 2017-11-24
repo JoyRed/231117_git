@@ -1,2 +1,2 @@
 Este es mi primer archivo
-y esta es mi segunda linea
+y esto ya esta corregido
