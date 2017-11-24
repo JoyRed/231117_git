@@ -3,3 +3,4 @@ y esto ya esta corregido
 y esto lo hide en otra compu
 esta es mi nueva linea
 esto lo hice desde VSC
+voy a hacer pull desde VSC
